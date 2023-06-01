@@ -7,9 +7,9 @@ A spotify clone built with <strong>React</strong> - [DEMO]()
 
 
 # 📖 Features of this app:
--✅Cross Platform functionality
--✅Smooth transition between songs
--✅Remotely control this app from anywhere (mobile, tablet , desktop)
+- ✅Cross Platform functionality
+- ✅Smooth transition between songs
+- ✅Remotely control this app from anywhere (mobile, tablet , desktop)
 
 
 ## Teck Stacks
