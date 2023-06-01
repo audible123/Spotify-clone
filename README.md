@@ -15,6 +15,6 @@ A spotify clone built with <strong>React</strong> - [DEMO]()
 
 
 # 🤓 What I learned ?
- -Use of Context API
- -useReducer,useEffect Hooks in React
- -How to build progressive a web app with simplicity
+ - Use of Context API
+ - useReducer,useEffect Hooks in React
+ - How to build progressive a web app with simplicity
